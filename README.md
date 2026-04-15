@@ -1,7 +1,7 @@
 # Nepal Newar Ceremonial Metalwork Registry
 
 This registry preserves and authenticates ceremonial metalworking knowledge from the Newar communities of the Kathmandu Valley.  
-Newar metalwork is one of the oldest continuously practiced ritual crafts in Asia, and its techniques—transmitted through guilds, families, and temple workshops—are at risk of disappearing as traditional artisans decline.
+Newar metalwork is one of the oldest continuously practiced ritual crafts in Asia, and its techniques transmitted through guilds, families, and temple workshops are at risk of disappearing as traditional artisans decline.
 
 ## Purpose
 
@@ -38,7 +38,7 @@ This combination reflects how Newar artisans understand their work:
 **a technical process with spiritual purpose**.
 
 The registry is intentionally minimalistic.  
-It does not attempt to catalogue every detail—only the essential elements needed to preserve authenticity and context.
+It does not attempt to catalogue every detail only the essential elements needed to preserve authenticity and context.
 
 ## How it works
 
@@ -55,7 +55,7 @@ The contract also includes a simple like/dislike system to allow community feedb
 
 ## Long-term vision
 
-This registry aims to become a permanent cultural anchor for Newar ritual metalwork—  
+This registry aims to become a permanent cultural anchor for Newar ritual metalwork   
 a reference point for artisans, researchers, museums, and future generations seeking accurate, respectful documentation of these practices.
 
 By placing this knowledge on-chain, the registry ensures that the legacy of Newar ceremonial metalwork remains accessible, protected, and preserved beyond the limits of physical archives.
