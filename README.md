@@ -53,6 +53,8 @@ Anyone can record a technique, but each entry must include:
 
 The contract also includes a simple like/dislike system to allow community feedback and visibility.
 
+https://basescan.org/address/0xa94616c00d686a39fa43fd9b1298ffc1e34569a1#code
+
 ## Long-term vision
 
 This registry aims to become a permanent cultural anchor for Newar ritual metalwork   
